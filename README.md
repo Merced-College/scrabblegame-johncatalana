@@ -1,6 +1,9 @@
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=19874789)
 # scrabbleGame
 
+By: John Catalana
+7/1/2025
+
 Scrabble Game 
 
 For this assignment use your OOD and ArrayList skills and binary search algorithm to make a simple Scrabble-like game.  This game will give the user 4 random letters.  
