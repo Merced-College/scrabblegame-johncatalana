@@ -29,3 +29,9 @@ TODO Turn in: Turn in your 2 files (The Word and ScrabbleGame java files) to the
 TODO: Each student must respond to the reflection question individually, providing a unique answer. This part of the assignment should not be done collaboratively. Submit your reflection as a document either on Canvas or in the GitHub repository.
 
 Reflect on your personal problem-solving process. How did your understanding of object-oriented programming (e.g., classes, constructors, and data structures like ArrayLists) evolve as you worked on this task? What challenges did you encounter and how did you go about fixing them? Explain which LLM, your prompts, or internet help and how debugged your code?
+
+Working on this Scrabble-like word game helped with my understanding of object-oriented progamming and reinforced the idea of breaking a larger problem into smaller componenets where I can work at in increments. early in the task, I just focused on designing clear classed like Word.java and ScrabbleGame.java. Understand how to use constructors and the comparable interface helped me see how Java allows objects to be sorted and searched.
+
+At first, I found it challenging to structure the game logic, especially between multiple rounds and the fact that there was two players. When i implemented the feature for letter exchange for each player, it required me to track the orginal random letters and made sure each player had a copy of its own so when they wanted to exchange any letter they wanted, it was from their own copy. It also took some time to understand how to score points based on multiple conditions. I took into account the word length used and the amount of letters they used for their challenge letters - without making the code super complex.
+
+I used OpenAI's ChatGPT to help debug my game logic. The feedback I received helped me rethinking my approach to my design, especially when separating responsibilities for my game.
